@@ -19,3 +19,12 @@ We will collect data on the Falcon 9 first-stage landings. We will use a RESTful
 - Write Python code to conduct exploratory data analysis by manipulating data in a Pandas data frame
 - Create and execute SQL queries to select and sort data
 - Utilize your data visualization skills to visualize the data and extract meaningful patterns to guide the modeling process
+
+# Module 3 Interactive Visual Analytics and Dashboard
+We will build a dashboard to analyze launch records interactively with Plotly Dash. We will then build an interactive map to analyze the launch site proximity with Folium.
+## Objectives:
+- Build an interactive dashboard that contains pie charts and scatter plots to analyze data with the Plotly Dash Python library.
+- Calculate distances on an interactive map by writing Python code using the Folium library.
+- Generate interactive maps, plot coordinates, and mark clusters by writing Python code using the Folium library.
+- Build a dashboard to analyze launch records interactively with Plotly Dash.
+- Build an interactive map to analyze the launch site proximity with Folium.
