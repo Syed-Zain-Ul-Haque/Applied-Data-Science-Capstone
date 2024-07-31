@@ -12,7 +12,7 @@ We will be provided with an overview of the problem and the tools you need to co
 - Utilize data science methodologies to define and formulate a real-world business problem
 - Utilize your data analysis tools to load a dataset, clean it, and find out interesting insights from it
 
-# Module 2 Exploratory Data Analysis (EDA)
+# Module 2 Exploratory Data Analysis (EDA):
 We will collect data on the Falcon 9 first-stage landings. We will use a RESTful API and web scraping. We will also convert the data into a dataframe and then perform some data wrangling.
 ## Objectives:
 - Create scatter plots and bar charts by writing Python code to analyze data in a Pandas data frame
@@ -20,7 +20,7 @@ We will collect data on the Falcon 9 first-stage landings. We will use a RESTful
 - Create and execute SQL queries to select and sort data
 - Utilize your data visualization skills to visualize the data and extract meaningful patterns to guide the modeling process
 
-# Module 3 Interactive Visual Analytics and Dashboard
+# Module 3 Interactive Visual Analytics and Dashboard:
 We will build a dashboard to analyze launch records interactively with Plotly Dash. We will then build an interactive map to analyze the launch site proximity with Folium.
 ## Objectives:
 - Build an interactive dashboard that contains pie charts and scatter plots to analyze data with the Plotly Dash Python library.
