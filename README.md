@@ -28,3 +28,11 @@ We will build a dashboard to analyze launch records interactively with Plotly Da
 - Generate interactive maps, plot coordinates, and mark clusters by writing Python code using the Folium library.
 - Build a dashboard to analyze launch records interactively with Plotly Dash.
 - Build an interactive map to analyze the launch site proximity with Folium.
+
+# Module 4 Predictive Analysis (Classification)
+In this module we will use machine learning to determine if the first stage of Falcon 9 will land successfully. We will split your data into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data.
+## Objectives:
+- Split the data into training testing data
+- Train different classification models
+- Optimize the Hyperparameter grid search
+- Utilize your machine learning skills to build a predictive model to help a business function more efficiently
